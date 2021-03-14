@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.cfg
+src/potato_soup_niko.egg-info/PKG-INFO
+src/potato_soup_niko.egg-info/SOURCES.txt
+src/potato_soup_niko.egg-info/dependency_links.txt
+src/potato_soup_niko.egg-info/top_level.txt
