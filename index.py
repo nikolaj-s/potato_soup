@@ -3,7 +3,6 @@ from selenium import webdriver
 from urllib.request import urlopen
 import requests
 from bs4 import BeautifulSoup
-from src.FormatHtml import HtmlFormat
 import webbrowser
 import os
 from pathlib import Path

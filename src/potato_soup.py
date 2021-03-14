@@ -1,7 +1,6 @@
 import re
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
-from src.FormatHtml import HtmlFormat
 import webbrowser
 import os
 import shutil
